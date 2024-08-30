@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Rust",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA04"
+  },
+  {
+    "name": "TypeScript",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA05"
+  },
+  {
+    "name": "Python",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA06"
+  },
+  {
+    "name": "Kotlin",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA07"
+  },
+  {
+    "name": "Go",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA08"
+  },
+  {
+    "name": "Julia",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA09"
+  },
+  {
+    "name": "Dart",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA10"
+  },
+  {
+    "name": "C#",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA11"
+  },
+  {
+    "name": "Swift",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA12"
+  },
+  {
+    "name": "JavaScript",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA13"
+  },
+  {
+    "name": "SQL",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA14"
+  },
+  {
+    "name": "Scala",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA15"
+  },
+  {
+    "name": "Haskell",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA16"
+  },
+  {
+    "name": "R",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA17"
+  },
+  {
+    "name": "Java",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA18"
+  },
+  {
+    "name": "C\u002B\u002B",
+    "guid": "3B85BE83-9B4E-4B15-9EB2-68363936CA19"
+  }
+]

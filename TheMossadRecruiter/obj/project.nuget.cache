@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGCsI9qm8mmMqFN/6Fgi353DY3qr7+EuF9Pek/xAhPYU+0pxY9qCJd0l5Gm/nRCgZTV8zNQUkg00Edv3kSG+2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nigam\\source\\repos\\TheMossadRecruiter\\TheMossadRecruiter\\TheMossadRecruiter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nigam\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\nigam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
